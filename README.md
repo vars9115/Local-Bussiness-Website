@@ -1,0 +1,2 @@
+# Local Bussiness Website
+This project is a professional website built for a real local business such as a café, restaurant, gym, salon, or boutique. It includes essential pages like Home, Menu/Services, About, and Contact. The website helps the business attract more customers by providing online visibility and easy access to information. It is built using HTML, CSS, and JavaScript in VS Code and can be hosted on GitHub for a live demo.
